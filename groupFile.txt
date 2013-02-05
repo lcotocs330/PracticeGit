@@ -15,6 +15,7 @@ Test test testing!
 
 LC add lines below here
 Test number one.
+Second line added to the group file.
 
 SK add lines below here
 Lines have been added
